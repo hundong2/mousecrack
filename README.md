@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+<strong>Languages:</strong> <a href="README.md">English</a> | <a href="README_kor.md">한국어</a> · <a href="guide/README.md">한국어 학습 가이드</a>
+</p>
+
+<p align="center">
 Synthesize organically varied, human-like mouse movement.
 </p>
 
@@ -18,6 +22,8 @@ https://github.com/user-attachments/assets/15b89e22-b981-4a2f-ac7d-644ee60746cc
 ---
 
 ### Installation
+
+> 한국어 사용자는 [한국어 README](README_kor.md)와 [단계별 학습 가이드](guide/README.md)를 함께 참고할 수 있습니다.
 
 ```bash
 npm i -g mousecrack
